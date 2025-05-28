@@ -2,6 +2,8 @@
 
 Приложение-каталог персонажей Star Wars на React + TypeScript + Vite.
 
+Деплой версия на Vercel: https://cr-test-two.vercel.app/
+
 ## Возможности
 
 -   Список персонажей с фильтрацией и пагинацией
