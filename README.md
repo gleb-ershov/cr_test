@@ -14,7 +14,7 @@
 1. **Клонируйте репозиторий:**
 
     ```sh
-    git clone <URL-ВАШЕГО-РЕПОЗИТОРИЯ>
+    git clone https://github.com/gleb-ershov/cr_test
     cd star-wars-catalog
     ```
 
